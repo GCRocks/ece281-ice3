@@ -11,11 +11,11 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : halfAdder_tb.vhd
---| AUTHOR(S)     : Capt Warner
---| CREATED       : 01/17/2017
+--| AUTHOR(S)     : Gia Checo Roques
+--| CREATED       : 02/09/2024
 --| DESCRIPTION   : This file implements a half adder test bench.
 --|
---| DOCUMENTATION : Modified slightly by Capt Johnson
+--| DOCUMENTATION : None
 --|
 --+----------------------------------------------------------------------------
 --|
